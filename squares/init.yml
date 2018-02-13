@@ -1,0 +1,5 @@
+archive: firkanter.zip
+test_cases:
+- {in: firkanter.1.in, out: firkanter.1.out, points: 1}
+- {in: firkanter.2.in, out: firkanter.2.out, points: 10}
+- {in: firkanter.3.in, out: firkanter.3.out, points: 20}
