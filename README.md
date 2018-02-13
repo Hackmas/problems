@@ -1,9 +1,7 @@
-# Problem Data Examples
+# Standard Grading (IO-based)
 
-## Table of Contents
-* [Standard Grading (IO-based)](/problem_examples/standard/aplusb) - implements <https://dmoj.ca/problem/aplusb>
-* [Batched Standard Grading (IO-based)](/problem_examples/batched/hungry) - implements <https://dmoj.ca/problem/hungry>
-* [Custom Grading](/problem_examples/grader/shortest1) - implements <https://dmoj.ca/problem/shortest1>
-* [Interactive Grading (conditional IO-based)](/problem_examples/interactive/game1) - implements <https://dmoj.ca/problem/game1>
-* [Signature Grading (IOI-style)](/problem_examples/signature/siggrade) - implements <https://dmoj.ca/problem/siggrade>
-* [Generating IO Data on the Fly (large testcase generation)](/problem_examples/generator/ds3) - implements <https://dmoj.ca/problem/ds3>
+In this sample, we are using the most common grading system: test input and expected output are stored in a zip file.
+
+The `init.yml` declares the zip file with `archive` in the YAML file. Three test cases are listed in `test_cases`.
+
+Each test case declares its own input and output files, which can be any file in the zip file. The test cases are worth 5, 20, and 75 points respectively, making the total score out of 100.
