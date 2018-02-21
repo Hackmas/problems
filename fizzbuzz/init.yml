@@ -1,0 +1,5 @@
+archive: fizzbuzz.zip
+test_cases:
+- {in: fizzbuzz.1.in, out: fizzbuzz.1.out, points: 5}
+- {in: fizzbuzz.2.in, out: fizzbuzz.2.out, points: 20}
+- {in: fizzbuzz.3.in, out: fizzbuzz.3.out, points: 75}
