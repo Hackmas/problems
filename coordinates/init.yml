@@ -1,0 +1,5 @@
+archive: coordinates.zip
+test_cases:
+- {in: coordinates.1.in, out: coordinates.1.out, points: 5}
+- {in: coordinates.2.in, out: coordinates.2.out, points: 20}
+- {in: coordinates.3.in, out: coordinates.3.out, points: 75}
