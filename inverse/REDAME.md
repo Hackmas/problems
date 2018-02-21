@@ -10,10 +10,8 @@ Der
 
 ~I=
 \begin{bmatrix}
-    1      & 0     & \dots  & 0 \\
-    0      & 1     & \dots  & 0 \\
-    \dots  & \dots & \ddots & \vdots  \\
-    0      & 0     & \dots  & 1
+    1      & 0   \\
+    0      & 1     
 \end{bmatrix}~
 
 og
@@ -25,11 +23,4 @@ og
 \end{bmatrix}~
 ```
 
-init.yml
-```
-archive: inverse.zip
-test_cases:
-- {in: inverse.1.in, out: inverse.1.out, points: 20}
-- {in: inverse.2.in, out: inverse.2.out, points: 75}
-- {in: inverse.3.in, out: inverse.3.out, points: 150}
-```
+matrisen A er 2*2.
