@@ -1,6 +1,6 @@
-# Calculate inverse of 2x2 matrix
+# Kalkuler inversematrisen av en 2x2 matrise
 
-tasktext:
+Oppgavetekst:
 ```
 Finn den inverse av  ~n \cross n~ matrisen ~A~. Definisjonen er ~B=A^{-1}~ og oppfyller:.
 
@@ -21,6 +21,7 @@ og
     a       & b\\
     c       & d
 \end{bmatrix}~
-```
+
 
 matrisen A er 2*2.
+```
