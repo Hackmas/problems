@@ -1,0 +1,5 @@
+archive: total.zip
+test_cases:
+- {in: total.1.in, out: total.1.out, points: 5}
+- {in: total.2.in, out: total.2.out, points: 20}
+- {in: total.3.in, out: total.3.out, points: 75}
