@@ -1,0 +1,5 @@
+archive: palindrome.zip
+test_cases:
+- {in: palindrome.1.in, out: palindrome.1.out, points: 5}
+- {in: palindrome.2.in, out: palindrome.2.out, points: 20}
+- {in: palindrome.3.in, out: palindrome.3.out, points: 75}
