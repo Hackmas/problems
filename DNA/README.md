@@ -8,11 +8,11 @@ Som input får du først et heltall mellom 1 og 1000 etterfulgt av en rekke med 
 ### Hvis sekvensen forekommer
 Hvis den første sekvensen forekommer i den andre sekvensen skal du printe ut hvor i sekvensen den forekommer (0 indeksert). Hvis sekvensen forekommer mer enn en gang, skal du printe ut hver gang den forekommer, i rekkefølgen den forekommer.
 
-### Hvis sekvensen ikke forekommer
-Hvis sekvensen ikke forekommer skal du printe ut 'NO MATCH' i store bokstaver.
-
 ### Hvis sekvensen er ugyldig
 Hvis sekvensen inneholder et tegn som ikke er 'A', 'E', 'C' eller 'G', skal du printe ut 'INVALID' i store bokstaver.
+
+### Hvis sekvensen ikke forekommer
+Hvis sekvensene er gyldig, men den første sekvensen ikke forekommer i den andre sekvensen, skal du printe ut 'NO MATCH' i store bokstaver.
 
 ## Eksempel
 ### Eksempel 1
