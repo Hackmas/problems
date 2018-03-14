@@ -18,6 +18,9 @@ Hvis genet ikke forekommer skal du printe ut 'NO MATCH' i store bokstaver.
 ### Hvis sekvensen er ugyldig
 Hvis enten genet du søker etter eller DNA-sekvensen du søker i inneholder et tegn som ikke er 'A', 'T', 'C' eller 'G', skal du printe ut 'INVALID' i store bokstaver.
 
+### Hvis sekvensen ikke forekommer
+Hvis sekvensene er gyldig, men den første sekvensen ikke forekommer i den andre sekvensen, skal du printe ut 'NO MATCH' i store bokstaver.
+
 ## Eksempel
 ### Eksempel 1
 Gitt input
