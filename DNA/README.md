@@ -1,5 +1,5 @@
 # DNA
-I denne oppgaven skal du finne ut om en DNA sekvens innholder en annen DNA sekvens. En gyldig DNA sekvens består bare av bokstavene 'A', 'E', 'C' eller 'G', i vilkårlig rekkefølge.
+I denne oppgaven skal du finne ut om en DNA sekvens innholder en annen DNA sekvens. En gyldig DNA sekvens består bare av bokstavene 'A', 'T', 'C' eller 'G', i vilkårlig rekkefølge.
 
 ## Input
 Som input får du først et heltall mellom 1 og 1000 etterfulgt av en rekke med bokstaver, en på hver linje. Heltallet sier hvor mange bokstaver som følger. Dette er sekvensen du skal søke etter. Etter den første sekvensen kommer det en til sekvens, med samme format. Dette er sekvensen du skal søke i. Det er garantert at den første sekvensen er kortere enn den andre.
@@ -12,7 +12,7 @@ Hvis den første sekvensen forekommer i den andre sekvensen skal du printe ut hv
 Hvis sekvensen ikke forekommer skal du printe ut 'NO MATCH' i store bokstaver.
 
 ### Hvis sekvensen er ugyldig
-Hvis sekvensen inneholder et tegn som ikke er 'A', 'E', 'C' eller 'G', skal du printe ut 'INVALID' i store bokstaver.
+Hvis sekvensen inneholder et tegn som ikke er 'A', 'T', 'C' eller 'G', skal du printe ut 'INVALID' i store bokstaver.
 
 ## Eksempel
 ### Eksempel 1
@@ -20,18 +20,18 @@ Gitt input
 ```
 2
 A
-E
+T
 10
 A
-E
+T
 C
 G
 A
-E
+T
 C
 G
 G
-E
+T
 ```
 skal programmet printe ut
 ```
@@ -45,7 +45,7 @@ Gitt input
 ```
 4
 G
-E
+T
 A
 C
 5
@@ -53,7 +53,7 @@ A
 C
 A
 B
-E
+T
 ```
 skal programmet printe ut
 ```
@@ -66,15 +66,15 @@ Gitt input
 ```
 5
 C
-E
+T
 C
 G
 A
 6
-E
+T
 A
 C
-E
+T
 A
 C
 ```

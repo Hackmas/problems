@@ -1,7 +1,7 @@
 import java.util.*;
 
 public class DNA {
-    static String validChars = "AECG";
+    static String validChars = "ATCG";
 
     public static String readSequence(Scanner sc) {
         String sequence = "";
