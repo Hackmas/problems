@@ -9,16 +9,13 @@ Oppgaven din er å lete gjennom en DNA-sekvens og se om sekvensen inneholder et 
 Som input får du først et heltall mellom 1 og 1000 etterfulgt av en rekke med bokstaver, en på hver linje. Heltallet sier hvor mange bokstaver som følger. Dette er genet du skal søke etter. Etter den første sekvensen kommer det en til sekvens, med samme format. Dette er DNA-sekvensen du skal søke i. Det er garantert at DNA-sekvensen er kortere enn den gensekvensen du skal søke etter.
 
 ## Output
-### Hvis sekvensen forekommer
+### Hvis genet forekommer
 Hvis den genet forekommer i DNA-sekvensen skal du printe ut hvor i DNA-sekvensen det forekommer (0 indeksert). Hvis genet forekommer mer enn en gang, skal du printe ut hver gang det forekommer, i rekkefølgen det forekommer.
 
-### Hvis sekvensen ikke forekommer
-Hvis genet ikke forekommer skal du printe ut 'NO MATCH' i store bokstaver.
-
-### Hvis sekvensen er ugyldig
+### Hvis genet er ugyldig
 Hvis enten genet du søker etter eller DNA-sekvensen du søker i inneholder et tegn som ikke er 'A', 'T', 'C' eller 'G', skal du printe ut 'INVALID' i store bokstaver.
 
-### Hvis sekvensen ikke forekommer
+### Hvis genet ikke forekommer
 Hvis sekvensene er gyldig, men den første sekvensen ikke forekommer i den andre sekvensen, skal du printe ut 'NO MATCH' i store bokstaver.
 
 ## Eksempel
