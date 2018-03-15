@@ -1,0 +1,6 @@
+archive: DNA.zip
+test_cases:
+- {in: DNA.1.in, out: DNA.1.out, points: 5}
+- {in: DNA.2.in, out: DNA.2.out, points: 20}
+- {in: DNA.3.in, out: DNA.3.out, points: 25}
+- {in: DNA.4.in, out: DNA.4.out, points: 50}
