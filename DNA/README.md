@@ -42,7 +42,7 @@ skal programmet printe ut
 0
 4
 ```
-siden genet forekommer i DNA-sekvensen på indeks 0 og 7.
+siden genet forekommer i DNA-sekvensen på indeks 0 og 4.
 
 ### Eksempel 2
 Gitt input
