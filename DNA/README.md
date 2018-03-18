@@ -40,7 +40,7 @@ T
 skal programmet printe ut
 ```
 0
-7
+4
 ```
 siden genet forekommer i DNA-sekvensen på indeks 0 og 7.
 
