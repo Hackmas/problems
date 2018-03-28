@@ -12,11 +12,7 @@ public class Largest20 {
 
     public static void main(String[] args){
         sortingarray = lesFil(args[0]);
-       // for (int i: sortingarray) System.out.println(i);
-        System.out.println();
         insertSortStart();
-        //for (int i: sortingarray) System.out.println(i);
-        System.out.println();
         findLarger();
         for (int i: sortingarray) System.out.println(i);
 
