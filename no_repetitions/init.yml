@@ -1,0 +1,5 @@
+archive: no_repetitions.zip
+test_cases:
+- {in: no_repetitions.1.in, out: no_repetitions.1.out, points: 30}
+- {in: no_repetitions.2.in, out: no_repetitions.2.out, points: 20}
+- {in: no_repetitions.3.in, out: no_repetitions.3.out, points: 10}
