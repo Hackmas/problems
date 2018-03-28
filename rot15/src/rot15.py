@@ -11,5 +11,3 @@ def rot15(word):
         res += char_list[char.lower()]
 
     print(res)
-
-rot15("wzcpx tadfx ozwzc dte lxpe")
