@@ -11,3 +11,7 @@ def rot15(word):
         res += char_list[char.lower()]
 
     print(res)
+
+
+word = input()
+rot15(word)

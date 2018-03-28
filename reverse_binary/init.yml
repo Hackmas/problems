@@ -1,0 +1,5 @@
+archive: reverse_binary.zip
+test_cases:
+- {in: reversed_binary.1.in, out: reversed_binary.1.out, points: 25}
+- {in: reversed_binary.2.in, out: reversed_binary.2.out, points: 25}
+- {in: reversed_binary.3.in, out: reversed_binary.3.out, points: 25}
