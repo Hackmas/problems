@@ -1,0 +1,5 @@
+archive: zoo.zip
+test_cases:
+- {in: zoo.1.in, out: zoo.1.out, points: 25}
+- {in: zoo.2.in, out: zoo.2.out, points: 20}
+- {in: zoo.3.in, out: zoo.3.out, points: 15}
