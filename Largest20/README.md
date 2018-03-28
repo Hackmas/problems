@@ -1,14 +1,16 @@
 I denne oppgaven skal du få leke litt med sorteringsalgoritmer.
 Sorteringsmetoden vi skal bruke skal være InsertionSort(InnstikkSortering).
-Målet til programmet skal være å sortere de største 20 tallene i et array fremst i 
+Målet til programmet skal være å sortere de største 20 tallene i et array fremst i
 arrayet(dvs fra plass 0 - 19).
 For å oppnå dette må du først sortere de 20 første plassene i synkende rekkefølge,
-deretter se igjennom resten av lista etter større verdier som skal sorteres inn i 
-den første delen. Operasjonen skal være tapsfri(alle verdier som er i arrayet til å 
+deretter se igjennom resten av lista etter større verdier som skal sorteres inn i
+den første delen. Operasjonen skal være tapsfri(alle verdier som er i arrayet til å
 begynne med skal være med når sorteringen er ferdig).
 Merk at resten av arrayet ikke skal være sortert. Vi er kun interressert i å flytte
 de største tallene frem til starten.
 Filen du får som input har ett tall per linje hvor det første tallet er lengden på arrayet.
+Til slutt skal du printe alle verdiene til teminalen, ett tall per linje.
+Eksempelfil vises nedenfor, med output om oppgaven er gjort rett.
 Eksempel 1:
 INPUT:
 26

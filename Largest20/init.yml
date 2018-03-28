@@ -1,0 +1,4 @@
+archive: largest20.zip
+test_cases:
+- {in: 1.in, out: 2.out, points: 20}
+- {in: 2.in, out: 2.out, points: 50}
