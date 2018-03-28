@@ -12,6 +12,4 @@ def rot15(word):
 
     print(res)
 
-rot15("slwwz")
-
-rot15("shazam !")
+rot15("wzcpx tadfx ozwzc dte lxpe")
