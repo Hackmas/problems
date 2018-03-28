@@ -15,11 +15,5 @@ def zoo(liste):
 
 
 
-#inn = "African elephant\nWhite tiger\nIndian elephant\nSiberian tiger\nTiger\nPanda bear"
-#zoo(inn)
-
-#inn2 = "stor gris\nmedium gris\nsnill hest\nkalkun\nbritisk sau\nsvart sau"
-#zoo(inn2)
-
-inn3 = "blaa meis\nhvit afrikansk maake\ngul sel\nelefant sel"
+inn3 = input()
 zoo(inn3)
