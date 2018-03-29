@@ -1,0 +1,10 @@
+archive: queen_problem.zip
+test_cases:
+- {in: DNA.1.in, out: DNA.1.out, points: 5}
+- {in: DNA.2.in, out: DNA.2.out, points: 5}
+- {in: DNA.3.in, out: DNA.3.out, points: 5}
+- {in: DNA.4.in, out: DNA.4.out, points: 5}
+- {in: DNA.5.in, out: DNA.5.out, points: 5}
+- {in: DNA.6.in, out: DNA.6.out, points: 5}
+- {in: DNA.7.in, out: DNA.7.out, points: 5}
+- {in: DNA.8.in, out: DNA.8.out, points: 5}
