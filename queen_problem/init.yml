@@ -1,0 +1,10 @@
+archive: queen_problem.zip
+test_cases:
+- {in: boards.1.in, out: boards.1.out, points: 5}
+- {in: boards.2.in, out: boards.2.out, points: 5}
+- {in: boards.3.in, out: boards.3.out, points: 5}
+- {in: boards.4.in, out: boards.4.out, points: 5}
+- {in: boards.5.in, out: boards.5.out, points: 5}
+- {in: boards.6.in, out: boards.6.out, points: 5}
+- {in: boards.7.in, out: boards.7.out, points: 5}
+- {in: boards.8.in, out: boards.8.out, points: 5}
