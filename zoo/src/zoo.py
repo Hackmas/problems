@@ -1,5 +1,5 @@
 def zoo(liste):
-    dyr = liste.split('\n')
+    dyr = liste.split(',')
     dyr_liste = {}
 
     for d in dyr:
