@@ -1,0 +1,6 @@
+archive: depth_maps.zip
+test_cases:
+- {in: depth_maps.1.in, out: depth_maps.1.out, points: 5}
+- {in: depth_maps.2.in, out: depth_maps.2.out, points: 20}
+- {in: depth_maps.3.in, out: depth_maps.3.out, points: 25}
+- {in: depth_maps.4.in, out: depth_maps.4.out, points: 50}
