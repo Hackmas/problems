@@ -1,0 +1,5 @@
+archive: rot15.zip
+test_cases:
+- {in: rot15.1.in, out: rot15.1.out, points: 30}
+- {in: rot15.2.in, out: rot15.2.out, points: 20}
+- {in: rot15.3.in, out: rot15.3.out, points: 30}
