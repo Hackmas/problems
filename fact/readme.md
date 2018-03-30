@@ -1,6 +1,6 @@
 # Factorial
 
-Find the factrorial of a large number,  ~1<n<150~.
+Find the factrorial of a large number,  ~0<n<150~.
 
 input:
 First is th number of tests:
