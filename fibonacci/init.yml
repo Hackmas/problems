@@ -1,0 +1,5 @@
+archive: fibonacci.zip
+test_cases:
+- {in: fibonacci.1.in, out: fibonacci.1.out, points: 5}
+- {in: fibonacci.2.in, out: fibonacci.2.out, points: 20}
+- {in: fibonacci.3.in, out: fibonacci.3.out, points: 75}
