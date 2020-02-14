@@ -1,0 +1,5 @@
+archive: delmengder.zip
+test_cases:
+- {in: delmengder.1.in, out: delmengder.1.out, points: 25}
+- {in: delmengder.2.in, out: delmengder.2.out, points: 25}
+- {in: delmengder.3.in, out: delmengder.3.out, points: 50}
